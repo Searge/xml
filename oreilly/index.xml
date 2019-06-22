@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
-<?xml-stylesheet type="text/xsl" href="index.xsl"?>
 <!DOCTYPE OReilly:Books SYSTEM "sample.dtd">
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
 <OReilly:Books xmlns:OReilly="https://oreilly.com">
     <OReilly:Product>XML Pocket Reference</OReilly:Product>
     <OReilly:Price>8.95</OReilly:Price>
