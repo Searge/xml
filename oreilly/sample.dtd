@@ -1,0 +1,4 @@
+<!-- DTD for sample document -->
+<!ELEMENT OReilly:Books (OReilly:Product, OReilly:Price)>
+<!ELEMENT OReilly:Product (#PCDATA)>
+<!ELEMENT OReilly:Price (#PCDATA)>
