@@ -6,7 +6,7 @@
   <html>
   <body>
   <h2>My CD Collection</h2>
-  <table border="1">
+  <table>
     <tr bgcolor="#9acd32">
       <th>Title</th>
       <th>Artist</th>
