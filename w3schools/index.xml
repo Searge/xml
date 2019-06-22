@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cdcatalog.xsl"?>
+<catalog>
+  <cd>
+    <title>Empire Burlesque</title>
+    <artist>Bob Dylan</artist>
+    <country>USA</country>
+    <company>Columbia</company>
+    <price>10.90</price>
+    <year>1985</year>
+  </cd>
+  <cd>
+    <title>Yellow Submarine</title>
+    <artist>The Beatles</artist>
+    <country>USA</country>
+    <company>EMI and De Lane Lea studios</company>
+    <price>11.90</price>
+    <year>1969</year>
+  </cd>
+</catalog> 
