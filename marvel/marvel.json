@@ -1,0 +1,105 @@
+{
+    "collection": {
+        "The Infinity Saga": {
+            "chapter": {
+                "Phase One": {
+                    "movie": [{
+                            "title": "Iron Man",
+                            "date": "2008-05-02"
+                        },
+                        {
+                            "title": "The Incredible Hulk",
+                            "date": "2008-06-13"
+                        },
+                        {
+                            "title": "Iron Man 2",
+                            "date": "2010-05-07"
+                        },
+                        {
+                            "title": "Thor",
+                            "date": "2011-05-06"
+                        },
+                        {
+                            "title": "Captain America: The First Avenger",
+                            "date": "2011-07-22"
+                        },
+                        {
+                            "title": "Marvel's The Avengers",
+                            "date": "2012-05-04"
+                        }
+                    ]
+                },
+                "Phase Two": {
+                    "movie": [{
+                            "title": "Iron Man 3",
+                            "date": "2013-05-03"
+                        },
+                        {
+                            "title": "Thor: The Dark World",
+                            "date": "2013-11-08"
+                        },
+                        {
+                            "title": "Captain America: The Winter Soldier",
+                            "date": "2014-04-04"
+                        },
+                        {
+                            "title": "Guardians of the Galaxy",
+                            "date": "2014-08-01"
+                        },
+                        {
+                            "title": "Avengers: Age of Ultron",
+                            "date": "2015-05-01"
+                        },
+                        {
+                            "title": "Ant-Man",
+                            "date": "2015-07-17"
+                        }
+                    ]
+                },
+                "Phase Three": {
+                    "movie": [{
+                            "title": "Captain America: Civil War",
+                            "date": "2016-05-06"
+                        },
+                        {
+                            "title": "Doctor Strange",
+                            "date": "2016-11-04"
+                        },
+                        {
+                            "title": "Guardians of the Galaxy Vol. 2",
+                            "date": "2017-05-05"
+                        },
+                        {
+                            "title": "Spider-Man: Homecoming",
+                            "date": "2017-07-07"
+                        },
+                        {
+                            "title": "Thor: Ragnarok",
+                            "date": "2017-11-03"
+                        },
+                        {
+                            "title": "Black Panther",
+                            "date": "2018-02-16"
+                        },
+                        {
+                            "title": "Avengers: Infinity War",
+                            "date": "2018-04-27"
+                        },
+                        {
+                            "title": "Ant-Man and the Wasp",
+                            "date": "2018-07-06"
+                        },
+                        {
+                            "title": "Captain Marvel",
+                            "date": "2019-03-08"
+                        },
+                        {
+                            "title": "Avengers: Endgame",
+                            "date": "2019-04-26"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
