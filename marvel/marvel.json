@@ -5,7 +5,22 @@
                 "Phase One": {
                     "movie": [{
                             "title": "Iron Man",
-                            "date": "2008-05-02"
+                            "date": "2008-05-02",
+                            "protagonist": [
+                                ["Tony Stark", "Iron Man"],
+                                ["James 'Rhodey' Rhodes", "War Machine"]
+                            ],
+                            "antagonist": [
+                                ["Obadiah Stane", "Iron Monger"],
+                                "Raza"
+                            ],
+                            "support": [
+                                "Professor Ho Yinsen",
+                                "Virginia 'Pepper' Potts",
+                                "Harold 'Happy' Hogan",
+                                "Phil Coulson",
+                                "Colonel Nicholas Joseph Fury"
+                            ]
                         },
                         {
                             "title": "The Incredible Hulk",
@@ -13,7 +28,34 @@
                         },
                         {
                             "title": "Iron Man 2",
-                            "date": "2010-05-07"
+                            "date": "2010-05-07",
+                            "protagonist": [
+                                [
+                                    "Tony Stark",
+                                    "Iron Man"
+                                ],
+                                [
+                                    "James 'Rhodey' Rhodes",
+                                    "War Machine"
+                                ],
+                                ["Natalie Rushman", "Natasha Romanoff",
+                                    "Black Widow"
+                                ]
+                            ],
+                            "antagonist": [
+                                [
+                                    "Ivan Vanko", "Whiplash"
+                                ],
+                                "Justin Hammer"
+                            ],
+                            "support": [
+                                "Virginia 'Pepper' Potts",
+                                "Harold 'Happy' Hogan",
+                                "Howard Stark",
+                                "Phil Coulson",
+                                "Christine Everhart",
+                                "Colonel Nicholas Joseph Fury"
+                            ]
                         },
                         {
                             "title": "Thor",
@@ -32,7 +74,30 @@
                 "Phase Two": {
                     "movie": [{
                             "title": "Iron Man 3",
-                            "date": "2013-05-03"
+                            "date": "2013-05-03",
+                            "protagonist": [
+                                [
+                                    "Tony Stark",
+                                    "Iron Man"
+                                ],
+                                [
+                                    "James 'Rhodey' Rhodes",
+                                    "War Machine",
+                                    "Iron Patriot"
+                                ]
+                            ],
+                            "antagonist": [
+                                "Aldrich Killian",
+                                "Maya Hansen"
+                            ],
+                            "support": [
+                                "Virginia 'Pepper' Potts",
+                                "Harold 'Happy' Hogan",
+                                "Howard Stark",
+                                "Phil Coulson",
+                                "Christine Everhart",
+                                "Colonel Nicholas Joseph Fury"
+                            ]
                         },
                         {
                             "title": "Thor: The Dark World",
