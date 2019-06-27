@@ -4,51 +4,139 @@ collection:
     chapter:
       Phase One:
         movie:
-        - - Iron Man
-          - May 2, 2008
-        - - The Incredible Hulk
-          - June 13, 2008
-        - - Iron Man 2
-          - May 7, 2010
-        - - Thor
-          - May 6, 2011
-        - - 'Captain America: The First Avenger'
-          - July 22, 2011
-        - - Marvel's The Avengers
-          - May 4, 2012
+        - title: Iron Man
+          date: '2008-05-02'
+          imdb: '7.9'
+          calculation:
+            budget: '140_000_000'
+            box_office_ww: '585_174_222'
+        - title: The Incredible Hulk
+          date: '2008-06-13'
+          imdb: '6.7'
+          calculation:
+            budget: '150_000_000'
+            box_office_ww: '263_427_551'
+        - title: Iron Man 2
+          date: '2010-05-07'
+          imdb: '7'
+          calculation:
+            budget: '200_000_000'
+            box_office_ww: '623_933_331'
+        - title: Thor
+          date: '2011-05-06'
+          imdb: '7'
+          calculation:
+            budget: '150_000_000'
+            box_office_ww: '449,326,618'
+        - title: 'Captain America: The First Avenger'
+          date: '2011-07-22'
+          imdb: '6.9'
+          calculation:
+            budget: '140_000_000'
+            box_office_ww: '370_569_774'
+        - title: Marvel's The Avengers
+          date: '2012-05-04'
+          imdb: '8.1'
+          calculation:
+            budget: '220_000_000'
+            box_office_ww: '1_519_557_910'
       Phase Two:
         movie:
-        - - Iron Man 3
-          - May 3, 2013
-        - - 'Thor: The Dark World'
-          - November 8, 2013
-        - - 'Captain America: The Winter Soldier'
-          - April 4, 2014
-        - - Guardians of the Galaxy
-          - August 1, 2014
-        - - 'Avengers: Age of Ultron'
-          - May 1, 2015
-        - - Ant-Man
-          - July 17, 2015
+        - title: Iron Man 3
+          date: '2013-05-03'
+          imdb: '7.2'
+          calculation:
+            budget: '200_000_000'
+            box_office_ww: '1_215_439_994'
+        - title: 'Thor: The Dark World'
+          date: '2013-11-08'
+          imdb: '6.9'
+          calculation:
+            budget: '170_000_000'
+            box_office_ww: '644_783_140'
+        - title: 'Captain America: The Winter Soldier'
+          date: '2014-04-04'
+          imdb: '7.8'
+          calculation:
+            budget: '170_000_000'
+            box_office_ww: '714_766_572'
+        - title: Guardians of the Galaxy
+          date: '2014-08-01'
+          imdb: '8.1'
+          calculation:
+            budget: '170_000_000'
+            box_office_ww: '774_176_600'
+        - title: 'Avengers: Age of Ultron'
+          date: '2015-05-01'
+          imdb: '7.3'
+          calculation:
+            budget: '250_000_000'
+            box_office_ww: '1_405_413_868'
+        - title: Ant-Man
+          date: '2015-07-17'
+          imdb: '7.3'
+          calculation:
+            budget: '130_000_000'
+            box_office_ww: '519_445_163'
       Phase Three:
         movie:
-        - - 'Captain America: Civil War'
-          - May 6, 2016
-        - - Doctor Strange
-          - November 4, 2016
-        - - Guardians of the Galaxy Vol. 2
-          - May 5, 2017
-        - - 'Spider-Man: Homecoming'
-          - July 7, 2017
-        - - 'Thor: Ragnarok'
-          - November 3, 2017
-        - - Black Panther
-          - February 16, 2018
-        - - 'Avengers: Infinity War'
-          - April 27, 2018
-        - - Ant-Man and the Wasp
-          - July 6, 2018
-        - - Captain Marvel
-          - March 8, 2019
-        - - 'Avengers: Endgame'
-          - April 26, 2019
+        - title: 'Captain America: Civil War'
+          date: '2016-05-06'
+          imdb: '7.8'
+          calculation:
+            budget: '250_000_000'
+            box_office_ww: '408_084_349'
+        - title: Doctor Strange
+          date: '2016-11-04'
+          imdb: '7.5'
+          calculation:
+            budget: '165_000_000'
+            box_office_ww: '677_718_395'
+        - title: Guardians of the Galaxy Vol. 2
+          date: '2017-05-05'
+          imdb: '7.7'
+          calculation:
+            budget: '200_000_000'
+            box_office_ww: '863_756_051'
+        - title: 'Spider-Man: Homecoming'
+          date: '2017-07-07'
+          imdb: '7.5'
+          calculation:
+            budget: '175_000_000'
+            box_office_ww: '880_166_924'
+        - title: 'Thor: Ragnarok'
+          date: '2017-11-03'
+          imdb: '7.9'
+          calculation:
+            budget: '180_000_000'
+            box_office_ww: '853_977_126'
+        - title: Black Panther
+          date: '2018-02-16'
+          imdb: '7.3'
+          calculation:
+            budget: '200_000_000'
+            box_office_ww: '1_347_071_259'
+        - title: 'Avengers: Infinity War'
+          date: '2018-04-27'
+          imdb: '8.5'
+          calculation:
+            budget: '321_000_000'
+            box_office_ww: '2_048_709_917'
+        - title: Ant-Man and the Wasp
+          date: '2018-07-06'
+          imdb: '7.1'
+          calculation:
+            budget: '162_000_000'
+            box_office_ww: '622_674_139'
+        - title: Captain Marvel
+          date: '2019-03-08'
+          imdb: '7'
+          calculation:
+            budget: '152_000_000'
+            box_office_ww: '1_127_805_090'
+        - title: 'Avengers: Endgame'
+          date: '2019-04-26'
+          imdb: '8.7'
+          calculation:
+            budget: '356_000_000'
+            box_office_ww: '2_742_491_359'

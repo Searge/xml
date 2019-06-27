@@ -123,8 +123,8 @@
                             "date": "2016-05-06",
                             "imdb": "7.8",
                             "calculation": {
-                                "budget": "200_000_000",
-                                "box_office_ww": ""
+                                "budget": "250_000_000",
+                                "box_office_ww": "408_084_349"
                             }
                         },
                         {
@@ -132,8 +132,8 @@
                             "date": "2016-11-04",
                             "imdb": "7.5",
                             "calculation": {
-                                "budget": "200_000_000",
-                                "box_office_ww": ""
+                                "budget": "165_000_000",
+                                "box_office_ww": "677_718_395"
                             }
                         },
                         {
@@ -142,7 +142,7 @@
                             "imdb": "7.7",
                             "calculation": {
                                 "budget": "200_000_000",
-                                "box_office_ww": ""
+                                "box_office_ww": "863_756_051"
                             }
                         },
                         {
@@ -150,8 +150,8 @@
                             "date": "2017-07-07",
                             "imdb": "7.5",
                             "calculation": {
-                                "budget": "200_000_000",
-                                "box_office_ww": ""
+                                "budget": "175_000_000",
+                                "box_office_ww": "880_166_924"
                             }
                         },
                         {
@@ -159,8 +159,8 @@
                             "date": "2017-11-03",
                             "imdb": "7.9",
                             "calculation": {
-                                "budget": "200_000_000",
-                                "box_office_ww": ""
+                                "budget": "180_000_000",
+                                "box_office_ww": "853_977_126"
                             }
                         },
                         {
@@ -169,7 +169,7 @@
                             "imdb": "7.3",
                             "calculation": {
                                 "budget": "200_000_000",
-                                "box_office_ww": ""
+                                "box_office_ww": "1_347_071_259"
                             }
                         },
                         {
@@ -177,8 +177,8 @@
                             "date": "2018-04-27",
                             "imdb": "8.5",
                             "calculation": {
-                                "budget": "200_000_000",
-                                "box_office_ww": ""
+                                "budget": "321_000_000",
+                                "box_office_ww": "2_048_709_917"
                             }
                         },
                         {
@@ -186,8 +186,8 @@
                             "date": "2018-07-06",
                             "imdb": "7.1",
                             "calculation": {
-                                "budget": "200_000_000",
-                                "box_office_ww": ""
+                                "budget": "162_000_000",
+                                "box_office_ww": "622_674_139"
                             }
                         },
                         {
@@ -195,8 +195,8 @@
                             "date": "2019-03-08",
                             "imdb": "7",
                             "calculation": {
-                                "budget": "200_000_000",
-                                "box_office_ww": ""
+                                "budget": "152_000_000",
+                                "box_office_ww": "1_127_805_090"
                             }
                         },
                         {
@@ -204,8 +204,8 @@
                             "date": "2019-04-26",
                             "imdb": "8.7",
                             "calculation": {
-                                "budget": "200_000_000",
-                                "box_office_ww": ""
+                                "budget": "356_000_000",
+                                "box_office_ww": "2_742_491_359"
                             }
                         }
                     ]
