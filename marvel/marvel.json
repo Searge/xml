@@ -6,68 +6,57 @@
                     "movie": [{
                             "title": "Iron Man",
                             "date": "2008-05-02",
-                            "protagonist": [
-                                ["Tony Stark", "Iron Man"],
-                                ["James 'Rhodey' Rhodes", "War Machine"]
-                            ],
-                            "antagonist": [
-                                ["Obadiah Stane", "Iron Monger"],
-                                "Raza"
-                            ],
-                            "support": [
-                                "Professor Ho Yinsen",
-                                "Virginia 'Pepper' Potts",
-                                "Harold 'Happy' Hogan",
-                                "Phil Coulson",
-                                "Colonel Nicholas Joseph Fury"
-                            ]
+                            "imdb": "7.9",
+                            "calculation": {
+                                "budget": "140_000_000",
+                                "box_office_ww": "585_174_222"
+                            }
                         },
                         {
                             "title": "The Incredible Hulk",
-                            "date": "2008-06-13"
+                            "date": "2008-06-13",
+                            "imdb": "6.7",
+                            "calculation": {
+                                "budget": "150_000_000",
+                                "box_office_ww": "263_427_551"
+                            }
                         },
                         {
                             "title": "Iron Man 2",
                             "date": "2010-05-07",
-                            "protagonist": [
-                                [
-                                    "Tony Stark",
-                                    "Iron Man"
-                                ],
-                                [
-                                    "James 'Rhodey' Rhodes",
-                                    "War Machine"
-                                ],
-                                ["Natalie Rushman", "Natasha Romanoff",
-                                    "Black Widow"
-                                ]
-                            ],
-                            "antagonist": [
-                                [
-                                    "Ivan Vanko", "Whiplash"
-                                ],
-                                "Justin Hammer"
-                            ],
-                            "support": [
-                                "Virginia 'Pepper' Potts",
-                                "Harold 'Happy' Hogan",
-                                "Howard Stark",
-                                "Phil Coulson",
-                                "Christine Everhart",
-                                "Colonel Nicholas Joseph Fury"
-                            ]
+                            "imdb": "7",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": "623_933_331"
+                            }
+
                         },
                         {
                             "title": "Thor",
-                            "date": "2011-05-06"
+                            "date": "2011-05-06",
+                            "imdb": "7",
+                            "calculation": {
+                                "budget": "150_000_000",
+                                "box_office_ww": "449,326,618"
+                            }
                         },
                         {
                             "title": "Captain America: The First Avenger",
-                            "date": "2011-07-22"
+                            "date": "2011-07-22",
+                            "imdb": "6.9",
+                            "calculation": {
+                                "budget": "140_000_000",
+                                "box_office_ww": "370_569_774"
+                            }
                         },
                         {
                             "title": "Marvel's The Avengers",
-                            "date": "2012-05-04"
+                            "date": "2012-05-04",
+                            "imdb": "8.1",
+                            "calculation": {
+                                "budget": "220_000_000",
+                                "box_office_ww": "1_519_557_910"
+                            }
                         }
                     ]
                 },
@@ -75,92 +64,149 @@
                     "movie": [{
                             "title": "Iron Man 3",
                             "date": "2013-05-03",
-                            "protagonist": [
-                                [
-                                    "Tony Stark",
-                                    "Iron Man"
-                                ],
-                                [
-                                    "James 'Rhodey' Rhodes",
-                                    "War Machine",
-                                    "Iron Patriot"
-                                ]
-                            ],
-                            "antagonist": [
-                                "Aldrich Killian",
-                                "Maya Hansen"
-                            ],
-                            "support": [
-                                "Virginia 'Pepper' Potts",
-                                "Harold 'Happy' Hogan",
-                                "Howard Stark",
-                                "Phil Coulson",
-                                "Christine Everhart",
-                                "Colonel Nicholas Joseph Fury"
-                            ]
+                            "imdb": "7.2",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": "1_215_439_994"
+                            }
                         },
                         {
                             "title": "Thor: The Dark World",
-                            "date": "2013-11-08"
+                            "date": "2013-11-08",
+                            "imdb": "6.9",
+                            "calculation": {
+                                "budget": "170_000_000",
+                                "box_office_ww": "644_783_140"
+                            }
                         },
                         {
                             "title": "Captain America: The Winter Soldier",
-                            "date": "2014-04-04"
+                            "date": "2014-04-04",
+                            "imdb": "7.8",
+                            "calculation": {
+                                "budget": "170_000_000",
+                                "box_office_ww": "714_766_572"
+                            }
                         },
                         {
                             "title": "Guardians of the Galaxy",
-                            "date": "2014-08-01"
+                            "date": "2014-08-01",
+                            "imdb": "8.1",
+                            "calculation": {
+                                "budget": "170_000_000",
+                                "box_office_ww": "774_176_600"
+                            }
                         },
                         {
                             "title": "Avengers: Age of Ultron",
-                            "date": "2015-05-01"
+                            "date": "2015-05-01",
+                            "imdb": "7.3",
+                            "calculation": {
+                                "budget": "250_000_000",
+                                "box_office_ww": "1_405_413_868"
+                            }
                         },
                         {
                             "title": "Ant-Man",
-                            "date": "2015-07-17"
+                            "date": "2015-07-17",
+                            "imdb": "7.3",
+                            "calculation": {
+                                "budget": "130_000_000",
+                                "box_office_ww": "519_445_163"
+                            }
                         }
                     ]
                 },
                 "Phase Three": {
                     "movie": [{
                             "title": "Captain America: Civil War",
-                            "date": "2016-05-06"
+                            "date": "2016-05-06",
+                            "imdb": "7.8",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": ""
+                            }
                         },
                         {
                             "title": "Doctor Strange",
-                            "date": "2016-11-04"
+                            "date": "2016-11-04",
+                            "imdb": "7.5",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": ""
+                            }
                         },
                         {
                             "title": "Guardians of the Galaxy Vol. 2",
-                            "date": "2017-05-05"
+                            "date": "2017-05-05",
+                            "imdb": "7.7",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": ""
+                            }
                         },
                         {
                             "title": "Spider-Man: Homecoming",
-                            "date": "2017-07-07"
+                            "date": "2017-07-07",
+                            "imdb": "7.5",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": ""
+                            }
                         },
                         {
                             "title": "Thor: Ragnarok",
-                            "date": "2017-11-03"
+                            "date": "2017-11-03",
+                            "imdb": "7.9",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": ""
+                            }
                         },
                         {
                             "title": "Black Panther",
-                            "date": "2018-02-16"
+                            "date": "2018-02-16",
+                            "imdb": "7.3",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": ""
+                            }
                         },
                         {
                             "title": "Avengers: Infinity War",
-                            "date": "2018-04-27"
+                            "date": "2018-04-27",
+                            "imdb": "8.5",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": ""
+                            }
                         },
                         {
                             "title": "Ant-Man and the Wasp",
-                            "date": "2018-07-06"
+                            "date": "2018-07-06",
+                            "imdb": "7.1",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": ""
+                            }
                         },
                         {
                             "title": "Captain Marvel",
-                            "date": "2019-03-08"
+                            "date": "2019-03-08",
+                            "imdb": "7",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": ""
+                            }
                         },
                         {
                             "title": "Avengers: Endgame",
-                            "date": "2019-04-26"
+                            "date": "2019-04-26",
+                            "imdb": "8.7",
+                            "calculation": {
+                                "budget": "200_000_000",
+                                "box_office_ww": ""
+                            }
                         }
                     ]
                 }

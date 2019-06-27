@@ -1,0 +1,43 @@
+{
+    "protagonist": [
+        [
+            "Tony Stark",
+            "Iron Man"
+        ],
+        [
+            "James 'Rhodey' Rhodes",
+            "War Machine",
+            "Iron Patriot"
+        ],
+        [
+            "Natalie Rushman", "Natasha Romanoff",
+            "Black Widow"
+        ],
+        ["Bruce Banner", "Hulk"]
+    ],
+    "antagonist": [
+        ["Obadiah Stane", "Iron Monger"],
+        "Raza",
+        [
+            "Ivan Vanko", "Whiplash"
+        ],
+        "Justin Hammer",
+        "Aldrich Killian",
+        "Maya Hansen",
+        "Trevor Slattery",
+        ["Eric Savin", "Mandarin"],
+        "Ellen Brandt"
+    ],
+    "support": [
+        "Professor Ho Yinsen",
+        "Virginia 'Pepper' Potts",
+        "Harold 'Happy' Hogan",
+        "Phil Coulson",
+        "Harley Keener",
+        "Virginia 'Pepper' Potts",
+        "Howard Stark",
+        "Christine Everhart",
+        "Doctor Wu",
+        "Colonel Nicholas Joseph Fury"
+    ]
+}
