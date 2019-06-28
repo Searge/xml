@@ -1,209 +1,207 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Marvel>
-    <collection name="The Infinity Saga">
-        <chapter name="Phase One">
-            <movie>
-                <title>Iron Man</title>
-                <date>2008-05-02</date>
-                <imdb>7.9</imdb>
-                <calculation>
-                    <budget>140_000_000</budget>
-                    <box_office_ww>585_174_222</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>The Incredible Hulk</title>
-                <date>2008-06-13</date>
-                <imdb>6.7</imdb>
-                <calculation>
-                    <budget>150_000_000</budget>
-                    <box_office_ww>263_427_551</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Iron Man 2</title>
-                <date>2010-05-07</date>
-                <imdb>7</imdb>
-                <calculation>
-                    <budget>200_000_000</budget>
-                    <box_office_ww>623_933_331</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Thor</title>
-                <date>2011-05-06</date>
-                <imdb>7</imdb>
-                <calculation>
-                    <budget>150_000_000</budget>
-                    <box_office_ww>449,326,618</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Captain America: The First Avenger</title>
-                <date>2011-07-22</date>
-                <imdb>6.9</imdb>
-                <calculation>
-                    <budget>140_000_000</budget>
-                    <box_office_ww>370_569_774</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Marvel&#x27;s The Avengers</title>
-                <date>2012-05-04</date>
-                <imdb>8.1</imdb>
-                <calculation>
-                    <budget>220_000_000</budget>
-                    <box_office_ww>1_519_557_910</box_office_ww>
-                </calculation>
-            </movie>
-        </chapter>
-        <chapter name="Phase Two">
-            <movie>
-                <title>Iron Man 3</title>
-                <date>2013-05-03</date>
-                <imdb>7.2</imdb>
-                <calculation>
-                    <budget>200_000_000</budget>
-                    <box_office_ww>1_215_439_994</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Thor: The Dark World</title>
-                <date>2013-11-08</date>
-                <imdb>6.9</imdb>
-                <calculation>
-                    <budget>170_000_000</budget>
-                    <box_office_ww>644_783_140</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Captain America: The Winter Soldier</title>
-                <date>2014-04-04</date>
-                <imdb>7.8</imdb>
-                <calculation>
-                    <budget>170_000_000</budget>
-                    <box_office_ww>714_766_572</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Guardians of the Galaxy</title>
-                <date>2014-08-01</date>
-                <imdb>8.1</imdb>
-                <calculation>
-                    <budget>170_000_000</budget>
-                    <box_office_ww>774_176_600</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Avengers: Age of Ultron</title>
-                <date>2015-05-01</date>
-                <imdb>7.3</imdb>
-                <calculation>
-                    <budget>250_000_000</budget>
-                    <box_office_ww>1_405_413_868</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Ant-Man</title>
-                <date>2015-07-17</date>
-                <imdb>7.3</imdb>
-                <calculation>
-                    <budget>130_000_000</budget>
-                    <box_office_ww>519_445_163</box_office_ww>
-                </calculation>
-            </movie>
-        </chapter>
-        <chapter name="Phase Three">
-            <movie>
-                <title>Captain America: Civil War</title>
-                <date>2016-05-06</date>
-                <imdb>7.8</imdb>
-                <calculation>
-                    <budget>250_000_000</budget>
-                    <box_office_ww>408_084_349</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Doctor Strange</title>
-                <date>2016-11-04</date>
-                <imdb>7.5</imdb>
-                <calculation>
-                    <budget>165_000_000</budget>
-                    <box_office_ww>677_718_395</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Guardians of the Galaxy Vol. 2</title>
-                <date>2017-05-05</date>
-                <imdb>7.7</imdb>
-                <calculation>
-                    <budget>200_000_000</budget>
-                    <box_office_ww>863_756_051</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Spider-Man: Homecoming</title>
-                <date>2017-07-07</date>
-                <imdb>7.5</imdb>
-                <calculation>
-                    <budget>175_000_000</budget>
-                    <box_office_ww>880_166_924</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Thor: Ragnarok</title>
-                <date>2017-11-03</date>
-                <imdb>7.9</imdb>
-                <calculation>
-                    <budget>180_000_000</budget>
-                    <box_office_ww>853_977_126</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Black Panther</title>
-                <date>2018-02-16</date>
-                <imdb>7.3</imdb>
-                <calculation>
-                    <budget>200_000_000</budget>
-                    <box_office_ww>1_347_071_259</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Avengers: Infinity War</title>
-                <date>2018-04-27</date>
-                <imdb>8.5</imdb>
-                <calculation>
-                    <budget>321_000_000</budget>
-                    <box_office_ww>2_048_709_917</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Ant-Man and the Wasp</title>
-                <date>2018-07-06</date>
-                <imdb>7.1</imdb>
-                <calculation>
-                    <budget>162_000_000</budget>
-                    <box_office_ww>622_674_139</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Captain Marvel</title>
-                <date>2019-03-08</date>
-                <imdb>7</imdb>
-                <calculation>
-                    <budget>152_000_000</budget>
-                    <box_office_ww>1_127_805_090</box_office_ww>
-                </calculation>
-            </movie>
-            <movie>
-                <title>Avengers: Endgame</title>
-                <date>2019-04-26</date>
-                <imdb>8.7</imdb>
-                <calculation>
-                    <budget>356_000_000</budget>
-                    <box_office_ww>2_742_491_359</box_office_ww>
-                </calculation>
-            </movie>
-        </chapter>
-    </collection>
-</Marvel>
+<collection name="The Infinity Saga">
+    <chapter name="Phase One">
+        <movie>
+            <title>Iron Man</title>
+            <date>2008-05-02</date>
+            <imdb>7.9</imdb>
+            <calculation>
+                <budget>140_000_000</budget>
+                <box_office_ww>585_174_222</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>The Incredible Hulk</title>
+            <date>2008-06-13</date>
+            <imdb>6.7</imdb>
+            <calculation>
+                <budget>150_000_000</budget>
+                <box_office_ww>263_427_551</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Iron Man 2</title>
+            <date>2010-05-07</date>
+            <imdb>7</imdb>
+            <calculation>
+                <budget>200_000_000</budget>
+                <box_office_ww>623_933_331</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Thor</title>
+            <date>2011-05-06</date>
+            <imdb>7</imdb>
+            <calculation>
+                <budget>150_000_000</budget>
+                <box_office_ww>449,326,618</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Captain America: The First Avenger</title>
+            <date>2011-07-22</date>
+            <imdb>6.9</imdb>
+            <calculation>
+                <budget>140_000_000</budget>
+                <box_office_ww>370_569_774</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Marvel&#x27;s The Avengers</title>
+            <date>2012-05-04</date>
+            <imdb>8.1</imdb>
+            <calculation>
+                <budget>220_000_000</budget>
+                <box_office_ww>1_519_557_910</box_office_ww>
+            </calculation>
+        </movie>
+    </chapter>
+    <chapter name="Phase Two">
+        <movie>
+            <title>Iron Man 3</title>
+            <date>2013-05-03</date>
+            <imdb>7.2</imdb>
+            <calculation>
+                <budget>200_000_000</budget>
+                <box_office_ww>1_215_439_994</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Thor: The Dark World</title>
+            <date>2013-11-08</date>
+            <imdb>6.9</imdb>
+            <calculation>
+                <budget>170_000_000</budget>
+                <box_office_ww>644_783_140</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Captain America: The Winter Soldier</title>
+            <date>2014-04-04</date>
+            <imdb>7.8</imdb>
+            <calculation>
+                <budget>170_000_000</budget>
+                <box_office_ww>714_766_572</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Guardians of the Galaxy</title>
+            <date>2014-08-01</date>
+            <imdb>8.1</imdb>
+            <calculation>
+                <budget>170_000_000</budget>
+                <box_office_ww>774_176_600</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Avengers: Age of Ultron</title>
+            <date>2015-05-01</date>
+            <imdb>7.3</imdb>
+            <calculation>
+                <budget>250_000_000</budget>
+                <box_office_ww>1_405_413_868</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Ant-Man</title>
+            <date>2015-07-17</date>
+            <imdb>7.3</imdb>
+            <calculation>
+                <budget>130_000_000</budget>
+                <box_office_ww>519_445_163</box_office_ww>
+            </calculation>
+        </movie>
+    </chapter>
+    <chapter name="Phase Three">
+        <movie>
+            <title>Captain America: Civil War</title>
+            <date>2016-05-06</date>
+            <imdb>7.8</imdb>
+            <calculation>
+                <budget>250_000_000</budget>
+                <box_office_ww>408_084_349</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Doctor Strange</title>
+            <date>2016-11-04</date>
+            <imdb>7.5</imdb>
+            <calculation>
+                <budget>165_000_000</budget>
+                <box_office_ww>677_718_395</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Guardians of the Galaxy Vol. 2</title>
+            <date>2017-05-05</date>
+            <imdb>7.7</imdb>
+            <calculation>
+                <budget>200_000_000</budget>
+                <box_office_ww>863_756_051</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Spider-Man: Homecoming</title>
+            <date>2017-07-07</date>
+            <imdb>7.5</imdb>
+            <calculation>
+                <budget>175_000_000</budget>
+                <box_office_ww>880_166_924</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Thor: Ragnarok</title>
+            <date>2017-11-03</date>
+            <imdb>7.9</imdb>
+            <calculation>
+                <budget>180_000_000</budget>
+                <box_office_ww>853_977_126</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Black Panther</title>
+            <date>2018-02-16</date>
+            <imdb>7.3</imdb>
+            <calculation>
+                <budget>200_000_000</budget>
+                <box_office_ww>1_347_071_259</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Avengers: Infinity War</title>
+            <date>2018-04-27</date>
+            <imdb>8.5</imdb>
+            <calculation>
+                <budget>321_000_000</budget>
+                <box_office_ww>2_048_709_917</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Ant-Man and the Wasp</title>
+            <date>2018-07-06</date>
+            <imdb>7.1</imdb>
+            <calculation>
+                <budget>162_000_000</budget>
+                <box_office_ww>622_674_139</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Captain Marvel</title>
+            <date>2019-03-08</date>
+            <imdb>7</imdb>
+            <calculation>
+                <budget>152_000_000</budget>
+                <box_office_ww>1_127_805_090</box_office_ww>
+            </calculation>
+        </movie>
+        <movie>
+            <title>Avengers: Endgame</title>
+            <date>2019-04-26</date>
+            <imdb>8.7</imdb>
+            <calculation>
+                <budget>356_000_000</budget>
+                <box_office_ww>2_742_491_359</box_office_ww>
+            </calculation>
+        </movie>
+    </chapter>
+</collection>
