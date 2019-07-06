@@ -1,24 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deck>
     <card>
-        <title xml:lang="en">The Fool</title>
-        <title xml:lang="en-alt">The Jester</title>
+        <title xml:lang="en" alt="The Jester">The Fool</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
-        <title xml:lang="it">Il Matto</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Matto</title>
         <title xml:lang="de">Narr</title>
         <number>0</number>
         <number xml:lang="he">א</number>
     </card>
     <card>
-        <title xml:lang="en">The Magician</title>
-        <title xml:lang="en-alt">The Juggler</title>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
-        <title xml:lang="it">Il Matto</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
         <title xml:lang="de">Narr</title>
         <number xml:lang="la">I</number>
         <number xml:lang="he">ב</number>
     </card>
     <card>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">La Papessa</title>
+        <title xml:lang="de">Narr</title>
+        <number xml:lang="la">I</number>
+        <number xml:lang="he">ב</number>
+    </card>
+    <card>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
+        <title xml:lang="de">Narr</title>
+        <number xml:lang="la">I</number>
+        <number xml:lang="he">ב</number>
+    </card>
+    <card>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
+        <title xml:lang="de">Narr</title>
+        <number xml:lang="la">I</number>
+        <number xml:lang="he">ב</number>
+    </card>
+    <card>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
+        <title xml:lang="de">Narr</title>
+        <number xml:lang="la">I</number>
+        <number xml:lang="he">ב</number>
+    </card>
+    <card>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
+        <title xml:lang="de">Narr</title>
+        <number xml:lang="la">I</number>
+        <number xml:lang="he">ב</number>
+    </card>
+    <card>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
+        <title xml:lang="de">Narr</title>
+        <number xml:lang="la">I</number>
+        <number xml:lang="he">ב</number>
+    </card>
+    <card>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
+        <title xml:lang="de">Narr</title>
+        <number xml:lang="la">I</number>
+        <number xml:lang="he">ב</number>
+    </card>
+    <card>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
+        <title xml:lang="de">Narr</title>
+        <number xml:lang="la">I</number>
+        <number xml:lang="he">ב</number>
+    </card>
+    <card>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
+        <title xml:lang="de">Narr</title>
+        <number xml:lang="la">I</number>
+        <number xml:lang="he">ב</number>
+    </card>
+    <card>
+        <title xml:lang="en" alt="The Juggler">The Magician</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
+        <title xml:lang="de">Narr</title>
+        <number xml:lang="la">I</number>
+        <number xml:lang="he">ב</number>
+    </card>
+    <card>
+        <title xml:lang="it">
+L'Imperatrice
+L'Imperatore
+Il Papa
+Gli Amanti
+Il Carro
+La Giustizia
+Il Tempo (L'Eremita)
+La Ruota Della Fortuna
+La Forza
+L'Appeso
+La Morte
+La Temperanza
+Il Diavolo
+La Torre
+La Stella
+La Luna
+Il Sole
+Il Giudizio
+Il Mondo
+        </title>
         <number xml:lang="he">גדהוזחטיךכלםמןנסעףפץצקרש</number>
         <suit></suit>
     </card>
