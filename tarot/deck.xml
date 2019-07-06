@@ -4,155 +4,175 @@
         <title xml:lang="en" alt="The Jester">The Fool</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Matto</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Der Narr</title>
         <number>0</number>
         <number xml:lang="he">א</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">The Magician</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Bateleur</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Der Magier</title>
         <number xml:lang="la">I</number>
         <number xml:lang="he">ב</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">The High Priestess</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">La Papesse</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Papessa</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Die Hohepriesterin</title>
         <number xml:lang="la">II</number>
         <number xml:lang="he">ג</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">The Empress</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">L'Impératrice</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">L'Imperatrice</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Die Herrscherin</title>
         <number xml:lang="la">III</number>
         <number xml:lang="he">ד</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">The Emperor</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">L'Empereur</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">L'Imperatore</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Der Herrscher</title>
         <number xml:lang="la">IV</number>
         <number xml:lang="he">ה</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">The Hierophant</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Pape</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Papa</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Der Hierophant</title>
         <number xml:lang="la">V</number>
         <number xml:lang="he">ו</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">The Lovers</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">L'Amoureux</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Gli Amanti</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Die Liebenden</title>
         <number xml:lang="la">VI</number>
         <number xml:lang="he">ז</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">The Chariot</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Chariot</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Carro</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Der Wagen</title>
         <number xml:lang="la">VII</number>
         <number xml:lang="he">ח</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">Strength</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">La Justice</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Giustizia</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Die Gerechtigkeit</title>
         <number xml:lang="la">VIII</number>
         <number xml:lang="he">ט</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">The Hermit</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">L'Ermite</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza" alt="L'Eremita">Il Tempo</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Der Eremit</title>
         <number xml:lang="la">IX</number>
         <number xml:lang="he">י</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">Wheel of Fortune</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">La Roue de Fortune</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Ruota Della Fortuna</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Das Rad des Schicksals</title>
         <number xml:lang="la">X</number>
         <number xml:lang="he">כ</number>
     </card>
     <card>
         <title xml:lang="en" alt="The Juggler">Justice</title>
-        <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">La Force</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Forza</title>
-        <title xml:lang="de">Narr</title>
+        <title xml:lang="de">Die Kraft</title>
         <number xml:lang="la">XI</number>
         <number xml:lang="he">ל</number>
     </card>
     <card>
         <title xml:lang="en">The Hanged Man</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Pendu</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">L'Appeso</title>
+        <title xml:lang="de">Der Gehängte</title>
         <number xml:lang="la">XII</number>
         <number xml:lang="he">מ</number>
     </card>
     <card>
         <title xml:lang="en">Death</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">La Mort</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Morte</title>
+        <title xml:lang="de">Der Tod</title>
         <number xml:lang="la">XIII</number>
         <number xml:lang="he">נ</number>
     </card>
     <card>
         <title xml:lang="en">Temperance</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Tempérance</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Temperanza</title>
+        <title xml:lang="de">Die Mäßigkeit</title>
         <number xml:lang="la">XIV</number>
         <number xml:lang="he">ס</number>
     </card>
     <card>
         <title xml:lang="en">The Devil</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Diable</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Diavolo</title>
+        <title xml:lang="de">Der Teufel</title>
         <number xml:lang="la">XV</number>
         <number xml:lang="he">ע</number>
     </card>
     <card>
         <title xml:lang="en">The Tower</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">La Maison Dieu</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Torre</title>
+        <title xml:lang="de">Der Turm</title>
         <number xml:lang="la">XVI</number>
         <number xml:lang="he">פ</number>
     </card>
     <card>
         <title xml:lang="en">The Star</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">L'Étoile</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Stella</title>
+        <title xml:lang="de">Der Stern</title>
         <number xml:lang="la">XVII</number>
         <number xml:lang="he">צ</number>
     </card>
     <card>
         <title xml:lang="en">The Moon</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">La Lune</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Luna</title>
+        <title xml:lang="de">Der Mond</title>
         <number xml:lang="la">XVIII</number>
         <number xml:lang="he">ק</number>
     </card>
     <card>
         <title xml:lang="en">The Sun</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Soleil</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Sole</title>
+        <title xml:lang="de">Die Sonne</title>
         <number xml:lang="la">XIX</number>
         <number xml:lang="he">ר</number>
     </card>
     <card>
         <title xml:lang="en">Judgement</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Jugement</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Giudizio</title>
+        <title xml:lang="de">Das Gericht</title>
         <number xml:lang="la">XX</number>
         <number xml:lang="he">ש</number>
     </card>
     <card>
         <title xml:lang="en">The World</title>
+        <title xml:lang="fr" source="Tarot of Marseilles">Le Monde</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Mondo</title>
+        <title xml:lang="de">Die Welt</title>
         <number xml:lang="la">XXI</number>
         <number xml:lang="he">ת</number>
     </card>
