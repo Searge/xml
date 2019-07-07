@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deck>
+    <title xml:lang="en">Rider-Waite tarot deck</title>
+    <description xml:lang="en">Analysing keys of classic tarot deck</description>
     <card>
         <title xml:lang="en" alt="The Jester">The Fool</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
